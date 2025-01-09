@@ -1,4 +1,3 @@
-**DIABETIC PREDICTION**
 This repository focuses on predicting diabetes risk based on patient health metrics. The project utilizes Python, data preprocessing techniques, and machine learning models to develop an efficient predictive system for early detection and healthcare intervention.
 
 **Dataset Overview**
